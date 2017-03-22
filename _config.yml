@@ -38,3 +38,7 @@ favicon: >-
 title: createrati
 content: []
 description: a creative revolution | eight corners blog
+purpose:
+  - type: external
+    url: 'http://gretcho.link/getkit'
+    label: 'http://gretcho.link/getkit'
