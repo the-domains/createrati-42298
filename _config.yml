@@ -1,0 +1,34 @@
+layout_spectrum: 0.3225723085688003
+typography_spectrum: 0.21597852810820803
+color:
+  brandStrength: 0.9476418303363577
+  lightness: 0.5150001048003462
+  saturation: 0.6419046918714953
+  rhythmicContrast: 0.32339985160055656
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#CD9AF7'
+    - '#51307F'
+    - '#AAD8E4'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: createrati
+content: []
+title: createrati
+description: a creative revolution | eight corners blog
+url: 'https://blog.eightcorners.co'
+author:
+  url: 'https://eightcorners.co'
+analytics:
+  facebook: '413880438950956'
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c14d990-61e4-41e3-9ee2-64ce1695d349.png
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5a2595c-c7b1-40da-acc3-3a44d3b9e55f.png
