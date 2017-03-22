@@ -18,13 +18,15 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: createrati
+name: createrati ⟐ eight corners blog
 content: []
 title: createrati
 description: a creative revolution | eight corners blog
 url: 'https://blog.eightcorners.co'
 author:
   url: 'https://eightcorners.co'
+  name: Gretchen Oris-Chong
+  email: hello@eightcorners.co
 analytics:
   facebook: '413880438950956'
 github: true
