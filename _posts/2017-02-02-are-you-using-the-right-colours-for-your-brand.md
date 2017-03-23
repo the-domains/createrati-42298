@@ -4,16 +4,16 @@ description: >-
   I spent most of the weekend just taking in lots of inspiration (I find that
   headspace and lots of eye candy helps the creative mind, and no it's not just
   caffeine ) and I can't wait to share them with you!
-dateModified: '2017-03-22T15:17:11.172Z'
-datePublished: '2017-03-22T15:17:11.346Z'
+dateModified: '2017-03-23T00:35:23.020Z'
+datePublished: '2017-03-23T00:35:23.849Z'
 title: Are you using the right colours for your brand?
 author: []
 publisher: {}
 via: {}
 hasPage: true
 sourcePath: _posts/2017-02-02-are-you-using-the-right-colours-for-your-brand.md
-datePublishedOriginal: '2017-03-22T15:17:11.346Z'
 starred: false
+datePublishedOriginal: '2017-03-22T15:17:11.346Z'
 url: are-you-using-the-right-colours-for-your-brand/index.html
 _type: Article
 
