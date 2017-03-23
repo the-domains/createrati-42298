@@ -4,8 +4,8 @@ hasPage: true
 inLanguage: null
 keywords: []
 description: The Singapore Airlines Suite Class Experience
-datePublished: '2017-03-22T15:03:12.473Z'
-dateModified: '2017-03-22T15:03:11.632Z'
+datePublished: '2017-03-23T00:35:23.871Z'
+dateModified: '2017-03-23T00:35:23.020Z'
 title: ''
 author: []
 sourcePath: >-
@@ -13,8 +13,8 @@ sourcePath: >-
 authors: []
 publisher: {}
 via: {}
-datePublishedOriginal: '2017-03-22T15:03:12.473Z'
 starred: false
+datePublishedOriginal: '2017-03-22T15:03:12.473Z'
 url: better-than-first-the-singapore-airlines-suite-class-experi/index.html
 _type: Article
 
