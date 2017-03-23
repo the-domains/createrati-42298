@@ -4,8 +4,8 @@ description: >-
   Today, I thought I would write a few key lessons I’ve learned in business, not
   just design.I want to not only share this with you but to also remind myself
   of these lessons years from now.
-dateModified: '2017-03-22T15:16:48.718Z'
-datePublished: '2017-03-22T15:16:48.972Z'
+dateModified: '2017-03-23T00:35:23.020Z'
+datePublished: '2017-03-23T00:35:23.856Z'
 title: Let's talk real business + some hard lessons I learned.
 author: []
 publisher: {}
@@ -13,8 +13,8 @@ via: {}
 sourcePath: >-
   _posts/2017-02-16-the-biggest-lesson-really-is-something-you-probably-already.md
 hasPage: true
-datePublishedOriginal: '2017-03-22T15:16:48.972Z'
 starred: false
+datePublishedOriginal: '2017-03-22T15:16:48.972Z'
 url: lets-talk-real-business-some-hard-lessons-i-learned/index.html
 _type: Article
 
