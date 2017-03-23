@@ -4,15 +4,15 @@ description: >-
   This week, I organised a little workshop and got the dates confused following
   a change, and emails that were queued originally got sent out even after I
   made the corrections. 
-dateModified: '2017-03-22T15:21:59.502Z'
-datePublished: '2017-03-22T15:21:59.697Z'
+dateModified: '2017-03-23T00:35:23.020Z'
+datePublished: '2017-03-23T00:35:23.836Z'
 title: Design is like the clothes you wear.
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-03-10-design-is-like-the-clothes-you-wear.md
-datePublishedOriginal: '2017-03-22T15:21:59.697Z'
 starred: false
+datePublishedOriginal: '2017-03-22T15:21:59.697Z'
 _type: Blurb
 
 ---
