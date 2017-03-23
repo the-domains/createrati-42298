@@ -4,16 +4,16 @@ hasPage: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2017-03-22T15:21:55.672Z'
-dateModified: '2017-03-22T15:21:55.375Z'
+datePublished: '2017-03-23T00:35:23.849Z'
+dateModified: '2017-03-23T00:35:23.020Z'
 title: "Top Inspirational\_Books"
 author: []
 authors: []
 publisher: {}
 sourcePath: _posts/2016-03-08-top-inspirational-books.md
 via: {}
-datePublishedOriginal: '2017-03-22T15:21:55.672Z'
 starred: false
+datePublishedOriginal: '2017-03-22T15:21:55.672Z'
 url: top-inspirational-books/index.html
 _type: Article
 
