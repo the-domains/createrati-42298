@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: Doing anything Valentine's Day?
-dateModified: '2017-03-22T15:17:00.556Z'
-datePublished: '2017-03-22T15:17:00.722Z'
+dateModified: '2017-03-23T00:35:23.020Z'
+datePublished: '2017-03-23T00:35:23.835Z'
 title: 'Colour Personality: Could Fresh Green be your match?'
 author: []
 publisher: {}
 via: {}
 hasPage: true
 sourcePath: _posts/2017-02-09-colour-personality-could-fresh-green-be-your-match.md
-datePublishedOriginal: '2017-03-22T15:17:00.722Z'
 starred: false
+datePublishedOriginal: '2017-03-22T15:17:00.722Z'
 url: colour-personality-could-fresh-green-be-your-match/index.html
 _type: Article
 
