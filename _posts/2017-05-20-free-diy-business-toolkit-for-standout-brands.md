@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-30T00:41:45.067Z'
-datePublished: '2017-06-30T00:41:46.798Z'
+dateModified: '2017-06-30T02:09:16.316Z'
+datePublished: '2017-06-30T02:09:19.030Z'
 title: FREE DIY Business Toolkit for Standout Brands
 author: []
 publisher: {}
@@ -17,7 +17,7 @@ _type: Article
 ---
 # FREE DIY Business Toolkit for Standout Brands
 
-## Recommended courses, apps and software for new + experienced business owners who want to simplify and work smarter.
+## Recommended courses, apps and software for new + experienced (sometimes overwhelemd) business owners who want to simplify and work smarter.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d4c42a7-7b14-4cfc-accf-42eb44a59c2d.png)
 
 ---
