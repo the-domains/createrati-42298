@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-29T23:30:22.799Z'
-datePublished: '2017-06-29T23:30:24.740Z'
+dateModified: '2017-06-30T00:41:45.067Z'
+datePublished: '2017-06-30T00:41:46.798Z'
 title: FREE DIY Business Toolkit for Standout Brands
 author: []
 publisher: {}
@@ -100,11 +100,11 @@ Think of Trello marrying a cork board and they had a baby. (Sorry, a bunch of pe
 
 I love how you can move things around and mindmap with lists, categories, photos and notes, all in one app.
 
-## Make Connections
+## Make Connections with An Email List
 
-### [Privy][13]
+### [Privy (Free)][13]
 
-I actually found Privy via Shopify. I'd describe it as very similar to SumoMe but I find their interface easier to use.
+I actually stumbled on Privy when I was setting up a Shopify site for a client. I'd describe it as very similar to SumoMe but I find their interface more beautiful and easier to use.
 
 I love that even on the free plan, you can create landing pages and separate sharing links so to give you more stats on where your signups are coming from.
 
@@ -116,9 +116,26 @@ I also love their support---they've given me some great agency pricing because I
 
 And the best part? You can have customisable confetti after signup. 😍
 
+### [Leadpages (Free 14-Day Trial)][14]
+
+I used to be on Clickfunnels but I found it too complicated and clunky for me.
+
+I'm a minimalist at heart (or at least trying to be), and Leadpages matches my brand to a tee. I am especially in love with Leadboxes!! All you need to do is create one and link it to any button or link and it works like a popup. Brilliant!
+
+The support team also seemed a lot nicer. Maybe this might change because they've just offered free trials? I hope not!  
+I love Leadpages and wish I jumped in sooner. It's one of the best tools I have in my marketing arsenal.
+
+[ClickFunnels (Free 14-Day Trial)][15]
+
+Best for the more advanced marketers who have complicated funnels, it has great functionality for sure. However, I find the hard marketing off-putting. 
+
+That said, Russell Brunson is an online marketing genius and maybe that's the point, we're not selling hard enough? ;)
+
+I do love his book [Expert Secrets][16] and I highly recommend it if you want to learn more about buyer psychology and marketing.
+
 ## Make Things Pretty
 
-### [Figma][14]
+### [Figma][17]
 
 My \#1 tool for creating my social media graphics.
 
@@ -128,15 +145,15 @@ It's actually easier and in some cases, more powerful than Photoshop.
 
 Not convinced? Challenge accepted. Will you give me a chance to show you?
 
-[Subscribe to my Youtube Channel][15] and keep an eye out for my upcoming tutorials!
+[Subscribe to my Youtube Channel][18] and keep an eye out for my upcoming tutorials!
 
-### [DesignFeed][16]
+### [DesignFeed][19]
 
 My go-to tool for creating super-professional-looking social media graphics on the fly.
 
 It's currently free (on beta, so not without bugs). The AI has impressed me many times.
 
-### [Google Slides][17]
+### [Google Slides][20]
 
 They've come a long way from the clunky and ugly first version.
 
@@ -144,7 +161,7 @@ It's the easiest tool you can use for creating PDFs and presentations.
 
 Unless you're creating long ebooks, in which case, I'd recommend...
 
-### [Pages][18]
+### [Pages][21]
 
 I've helped many entrepreneurs grow their businesses with Pages and Google Slides.
 
@@ -152,7 +169,7 @@ Yep, you really don't need to learn Illustrator or InDesign to create great-look
 
 ## Get Paid
 
-### [Book Like A Boss][19]
+### [Book Like A Boss][22]
 
 As you probably already guessed, it's also a booking platform.
 
@@ -166,7 +183,7 @@ Book Like A Boss, on the other hand, has a fun interface, with a bit of black fo
 
 Can't wait to see how this platform matures!
 
-### [Chec][20]
+### [Chec][23]
 
 Free tier products like Chec don't come very often. As someone who's only selling digital products on the side, I'm happy to pay 2% when I make a sale, as opposed to paying $10 on months when I don't sell.
 
@@ -174,14 +191,14 @@ Must be the primitive brain that's doing this but hey, I just don't like seeing 
 
 It's also in early stages so we'll see how this goes.
 
-### [Wave Apps][21]
+### [Wave Apps][24]
 
 My default invoicing software which I love. They're also on the free tier and they just take a percentage when I get paid through their platform.
 
 You can also plug in your bank account and credit card accounts and pretty much do your bookkeeping within the app.
 
 ...More to come so stay tuned!!
-[Get access to my free resource library][22]
+[Get access to my free resource library][25]
 
 [0]: http://gretcho.link/facebook-ads "Facebook Ads for Entrepreneurs"
 [1]: http://gretcho.link/danhenry "Dan Henry - Facebook Ads for Entrepreneurs Review"
@@ -197,12 +214,15 @@ You can also plug in your bank account and credit card accounts and pretty much 
 [11]: https://airtable.com/invite/r/TzsTpXKy
 [12]: https://app.milanote.com/refer/rczK9HFcTw10QpMDXx "Milanote"
 [13]: https://privy.com/
-[14]: https://www.figma.com/
-[15]: https://www.youtube.com/c/eightcornersgo
-[16]: http://designfeed.io/
-[17]: http://slides.google.com/
-[18]: https://www.apple.com/au/pages/
-[19]: https://booklikeaboss.com/
-[20]: http://chec.io/
-[21]: https://www.waveapps.com/
-[22]: http://gretcho.link/library
+[14]: http://gretcho.link/leadpages "Try Leadpages - Free Trial"
+[15]: http://gretcho.link/clickfunnels "Clickfunnels Review and Free Trial"
+[16]: https://affiliates.clickfunnels.com/affiliate-center14326968 "Expert Secrets Book by Russell Brunson"
+[17]: https://www.figma.com/
+[18]: https://www.youtube.com/c/eightcornersgo
+[19]: http://designfeed.io/
+[20]: http://slides.google.com/
+[21]: https://www.apple.com/au/pages/
+[22]: https://booklikeaboss.com/
+[23]: http://chec.io/
+[24]: https://www.waveapps.com/
+[25]: http://gretcho.link/library
