@@ -14,6 +14,7 @@ github: true
 layout_spectrum: 0.3225723085688003
 analytics:
   facebook: '413880438950956'
+  google: UA-17071199-1
 author:
   url: 'https://eightcorners.co'
   name: Gretchen Oris-Chong
@@ -36,12 +37,36 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5a2595c-c7b1-40da-acc3-3a44d3b9e55f.png
 title: createrati
-content: []
-description: a revolution on living the creative life.
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fabf300-d35d-42ba-9373-0d86e297cf52.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fabf300-d35d-42ba-9373-0d86e297cf52.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: 'Branding, design & business, fueled by travel & flat whites.'
 purpose:
   - type: external
-    url: 'http://gretcho.link/getkit'
-    label: FREE Branding Kit
+    url: 'http://take.thebrandtour.com/library'
+    label: Free Resource Library for Design & Branding
   - type: external
-    url: 'http://createrati.thinkific.com'
-    label: online courses
+    url: 'http://createrati.com'
+    label: Join The Createrati Community
