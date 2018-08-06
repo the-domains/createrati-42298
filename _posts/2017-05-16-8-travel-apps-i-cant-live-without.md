@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-08-06T04:28:24.364Z'
-datePublished: '2018-08-06T04:28:25.858Z'
+dateModified: '2018-08-06T04:31:54.117Z'
+datePublished: '2018-08-06T04:31:56.268Z'
 title: 8 Travel Apps I Can’t Live Without
 author: []
 publisher: {}
