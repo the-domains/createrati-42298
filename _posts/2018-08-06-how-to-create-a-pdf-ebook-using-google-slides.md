@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Did you know that Google Slides is an awesome app to use for creating your
   downloadable PDF ebooks?
-dateModified: '2018-08-06T06:27:00.773Z'
-datePublished: '2018-08-06T06:27:01.742Z'
+dateModified: '2018-08-06T06:41:26.052Z'
+datePublished: '2018-08-06T06:41:27.394Z'
 title: How To Create a PDF eBook with Google Slides
 author: []
 publisher: {}
@@ -30,6 +30,6 @@ Perfect for entrepreneurs, small business owners, bloggers, or anyone who loves 
 This is a preview to one of the tutorials that you can get in Club Createrati, an exclusive Branding Braintrust for ecologically sustainable creatives & entrepreneurs.
 
 Want to learn more? Request your exclusive invite below to learn how to get full access.
-[Request Your Invite][0]
+[Request Your Club Invite][0]
 
-[0]: http://createrati.com/invite
+[0]: https://go.eightcorners.co/box-club
