@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-08-06T04:05:20.520Z'
-datePublished: '2018-08-06T04:05:23.793Z'
+dateModified: '2018-08-06T04:25:44.276Z'
+datePublished: '2018-08-06T04:25:46.184Z'
 title: 'Wordpress vs Squarespace: For Blog or Business'
 author: []
 publisher: {}
