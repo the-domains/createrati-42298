@@ -7,8 +7,8 @@ description: >-
   For the past few years, I've realised that for creatives (web designers,
   graphic designers, photographers, copywriters and writers), starting a
   business is tougher than anything else I've ever attempted in my life.
-datePublished: '2017-03-23T00:35:23.835Z'
-dateModified: '2017-03-23T00:35:23.020Z'
+datePublished: '2018-08-06T04:05:23.491Z'
+dateModified: '2018-08-06T04:05:20.520Z'
 title: Creative Business Resources
 author: []
 sourcePath: _posts/2016-04-13-creative-business-resources.md
