@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Did you know that Google Slides is an awesome app to use for creating your
   downloadable PDF ebooks?
-dateModified: '2018-08-06T04:25:32.254Z'
-datePublished: '2018-08-06T04:25:33.878Z'
+dateModified: '2018-08-06T04:25:44.276Z'
+datePublished: '2018-08-06T04:25:45.892Z'
 title: How To Create a PDF eBook with Google Slides
 author: []
 publisher: {}
