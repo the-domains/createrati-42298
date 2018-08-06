@@ -4,8 +4,8 @@ description: >-
   I spent most of the weekend just taking in lots of inspiration (I find that
   headspace and lots of eye candy helps the creative mind, and no it's not just
   caffeine ) and I can't wait to share them with you!
-dateModified: '2017-03-23T00:35:23.020Z'
-datePublished: '2017-03-23T00:35:23.849Z'
+dateModified: '2018-08-06T04:05:20.520Z'
+datePublished: '2018-08-06T04:05:23.468Z'
 title: Are you using the right colours for your brand?
 author: []
 publisher: {}
