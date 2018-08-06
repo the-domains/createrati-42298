@@ -65,8 +65,8 @@ content:
 description: 'Branding, design & business, fueled by travel & flat whites.'
 purpose:
   - type: external
-    url: 'http://take.thebrandtour.com/library'
-    label: Free Resource Library for Design & Branding
+    url: 'https://go.eightcorners.co/box-collective'
+    label: Join the Createrati Collective
   - type: external
     url: 'http://createrati.com'
     label: Join The Createrati Community
