@@ -62,8 +62,8 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=ox2b6AtDr3w'
 title: >-
   How To Choose Fonts + Font Combinations Using Free Google Fonts For Your
   Business or Blog
-datePublished: '2017-03-23T00:35:23.856Z'
-dateModified: '2017-03-23T00:35:23.020Z'
+datePublished: '2018-08-06T04:05:23.469Z'
+dateModified: '2018-08-06T04:05:20.520Z'
 via: {}
 inFeed: true
 sourcePath: >-
