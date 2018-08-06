@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   I came across a Facebook post about how offensive it was to be called “lady
   boss” or “gorgeous” in a newsletter.
-dateModified: '2018-08-06T04:05:20.520Z'
-datePublished: '2018-08-06T04:05:23.489Z'
+dateModified: '2018-08-06T04:25:44.276Z'
+datePublished: '2018-08-06T04:25:45.894Z'
 title: Does Your Email Salutation Hurt Your Brand?
 author: []
 publisher: {}
