@@ -6,8 +6,8 @@ keywords: []
 description: >-
   In my last post, I wrote about our once-in-a-lifetime suite class flight
   experience with Singapore Airlines.
-datePublished: '2018-08-06T04:34:22.203Z'
-dateModified: '2018-08-06T04:34:19.366Z'
+datePublished: '2018-08-06T06:42:23.303Z'
+dateModified: '2018-08-06T06:42:22.014Z'
 title: How We Earned Frequent Flyer Miles To Get First Class Tickets...And Better
 author: []
 sourcePath: >-
