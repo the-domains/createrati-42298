@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: How To Choose Free Fonts For Your Business or Blog
-dateModified: '2017-03-23T00:35:23.020Z'
-datePublished: '2017-03-23T00:35:23.815Z'
+dateModified: '2018-08-06T04:05:20.520Z'
+datePublished: '2018-08-06T04:05:23.469Z'
 title: >-
   How To Choose Fonts + Font Combinations Using Google Fonts For Your Business
   or Blog
